@@ -1,3 +1,3 @@
 # learning-perhitungan-java
 
-perhitungan dengan java, dengan kemauan user sampai berapa akan di lakukan perhitungan nya
+perhitungan dengan java, dengan mengikuti user sampai berapa akan di lakukan perhitungan nya.
